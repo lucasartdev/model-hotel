@@ -1,5 +1,9 @@
+@import './assets/css/background.css';
 @import './assets/css/theme.css';
 @import './assets/css/buttons.css';
+@import './assets/css/input.css';
+@import './assets/css/carousel.css';
+@import './assets/css/icons.css';
 
 .fs-14 {
     
