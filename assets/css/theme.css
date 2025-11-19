@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-@import '/assets/css/buttons.css';
-@import '/assets/css/background.css';
-@import '/assets/css/input.css';
-@import '/assets/css/carousel.css';
-@import '/assets/css/icons.css';
+@import './assets/css/buttons.css';
+@import './assets/css/background.css';
+@import './assets/css/input.css';
+@import './assets/css/carousel.css';
+@import './assets/css/icons.css';
 
 :root {
     --bg-purple:       #4300D2;
